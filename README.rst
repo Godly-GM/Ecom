@@ -35,4 +35,5 @@ Please do not report security issues in public. Please email security@edx.org.
 Get Help
 --------
 
+
 Ask questions and discuss this project on `Slack <https://openedx.slack.com/messages/ecommerce/>`_ or in the `edx-code Google Group <https://groups.google.com/forum/#!forum/edx-code>`_.
